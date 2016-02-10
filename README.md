@@ -3,7 +3,7 @@
 sample rest project and here is more
 More about this repo. 
 
-###Accept licence first.
+Accept licence first.
 
 
 ##LICENCE
