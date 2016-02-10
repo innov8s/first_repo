@@ -1,7 +1,10 @@
 # first_repo
 
-sample rest project
-and here is more
+sample rest project and here is more
+More about this repo. 
+
+Accept licence first.
+
 
 ##LICENCE
 
