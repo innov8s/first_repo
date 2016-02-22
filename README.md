@@ -2,7 +2,7 @@
 
 sample rest project and here is more
 More about this repo. 
-Edit for pull request.
+Edit for pull request 2.
 
 ###Accept licence first.
 
