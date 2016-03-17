@@ -10,7 +10,7 @@ More about this repo. Here is another change.
 
 ##LICENCE
 
-
+Be sure to add a link to the License.txt file
 
 ##CONTRIBUTION
 Review the CLA and sign it first.
