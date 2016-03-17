@@ -1,7 +1,7 @@
 # first_repo
 
 sample rest project and here is more
-More about this repo. 
+More about this repo. Changed by dev.
 
 ###Accept CLA first.
 
