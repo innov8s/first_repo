@@ -4,7 +4,7 @@ We welcome Your interest in the Innov8s Open Source Community on Github. Any Con
 
 
 ##License
-Any contributions made under this project will be governed by the [Apache License 2.0.] (https://github.com/sandlinm/first_repo/LICENSE.txt)
+Any contributions made under this project will be governed by the [Apache License 2.0.](LICENSE.txt)
 
 ##Code of Conduct
 This project adheres to the [American Express Community Guidelines.](https://github.com/americanexpress/middle-manager/wiki/Code-Of-Conduct) By participating, you are expected to honor these guidelines.
