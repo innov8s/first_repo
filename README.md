@@ -8,8 +8,6 @@ Click here to sign the CLA - http://ec2-54-191-109-72.us-west-2.compute.amazonaw
 ##LICENCE
 https://github.com/twwio/first_repo/blob/master/LICENSE.txt
 
-Be sure to add a link to the License.txt file
-
 ##CODE OF CONDUCT
 https://github.com/twwio/first_repo/wiki
 
