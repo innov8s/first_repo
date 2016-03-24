@@ -7,20 +7,13 @@ More about this repo. Here is another change..
 We welcome Your interest in the Innov8s Open Source Community on Github. Any Contributor to any Open Source Project managed by the Innov8s Open Source Community must accept and sign an Agreement indicating agreement to the terms below. Except for the rights granted in this Agreement to Innov8s and to recipients of software distributed by Innov8s, You reserve all right, title, and interest, if any, in and to Your Contributions. Please fill out the Agreement.
 
 ## License
-Here is the [license](https://github.com/aellett/first_repo/LICENSE.txt)
+Here is the [license](https://github.com/innov8s/first_repo/LICENSE.txt)
 
 ## Code of Conduct
-[Code of Conduct](https://github.com/aellett/first_repo/wiki/Code-of-Conduct)
+[Code of Conduct](https://github.com/innov8s/first_repo/wiki/Code-of-Conduct)
 
 
 ###Accept CLA first.
-
-
-
-
-##LICENCE
-
-Be sure to add a link to the License.txt file
 
 ##CONTRIBUTION
 Review the CLA and sign it first.
