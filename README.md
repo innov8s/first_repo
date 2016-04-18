@@ -35,7 +35,7 @@ We welcome Your interest in the Innov8s Open Source Community on Github. Any Con
 ************* END TEXT TO COPY
 
 
-  C. remove the LICENSE.md file and replace with LICENSE.txt in the root directory of the repo
+  C. remove the LICENSE.md file from the repo and replace with a file called LICENSE.txt in the root directory of the repo
   
   D. paste the Apache 2.0 license text in the LICENSE.txt file...the text is found on this page: http://www.apache.org/licenses/LICENSE-2.0
   
