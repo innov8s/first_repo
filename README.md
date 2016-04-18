@@ -43,6 +43,10 @@ We welcome Your interest in the Innov8s Open Source Community on Github. Any Con
   
   F. create a link in the CODE OF CONDUCT section to the repo's Wiki Home Page
   
+  G. contribute your fork to innov8s/first_repo and initiate a Pull Request and add a PR comment with a reference to @gjlarsen
+  
+  H. resolve any merge conflicts
+  
 ////////////////////////////////////////////////////
 
 ##CONTRIBUTING
