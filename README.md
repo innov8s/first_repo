@@ -10,6 +10,7 @@ Click here to sign the CLA - http://ec2-54-191-109-72.us-west-2.compute.amazonaw
 3. create a fork on this repo from the MASTER branch; select your github handle for where the fork should go
 
 4. in your forked repo do the following in this file:
+
   A. Update the repo's Wiki Home page with text below
 
 ************* BEGIN TEXT TO COPY
