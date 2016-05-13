@@ -11,7 +11,7 @@ Click here to sign the CLA - http://ec2-54-191-109-72.us-west-2.compute.amazonaw
 
 4. in your forked repo do the following in this file:
 
-  A. Update the repo's Wiki Home page with text below
+A. Update the repo's Wiki Home page with text below
 
 ************* BEGIN TEXT TO COPY
 
