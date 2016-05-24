@@ -57,4 +57,4 @@ We welcome Your interest in the Innov8s Open Source Community on Github. Any Con
 Any contributions made under this project will be governed by the [Apache License 2.0](LICENSE.txt).
 
 ##CODE OF CONDUCT
-
+This project adheres to the [American Express Community Guidelines](https://github.com/mdiep/first_repo/wiki). By participating, you are expected to honor these guidelines.
