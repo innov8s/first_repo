@@ -12,4 +12,4 @@ We welcome Your interest in the Innov8s Open Source Community on Github. Any Con
 
 ##CODE OF CONDUCT
 
-[See the code of conduct on our wiki](./wiki)
+By participating, you are expected to honor these guidelines. [See the code of conduct on our wiki](https://github.com/americanexpress/middle-manager/wiki/Code-Of-Conduct)
