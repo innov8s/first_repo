@@ -3,7 +3,6 @@
 ##TASKS
 
 1. Review the CLA and sign it first.
-Click here to sign the CLA - http://ec2-54-191-109-72.us-west-2.compute.amazonaws.com/
 
 2. enable 2-factor autentication for your github account (if it is not already enabled)
 
